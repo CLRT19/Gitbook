@@ -7,6 +7,7 @@
 ## Machine Learning
 
 * [Machine Learning](machine-learning/machine-learning.md)
+* [Optimizing Data Collection](machine-learning/optimizing-data-collection.md)
 
 ## Math
 

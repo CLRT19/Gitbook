@@ -8,11 +8,12 @@
 
 * [Machine Learning](machine-learning/machine-learning.md)
 * [Optimizing Data Collection](machine-learning/optimizing-data-collection.md)
+* [CS 761 Notes](machine-learning/cs-761-notes.md)
 
 ## Math
 
 * [Math](math/math.md)
-* [Analysis](math/analysis.md)
+* [Analysis Notes](math/analysis.md)
 * [Abstract Algebra](math/abstract-algebra.md)
 
 ## Algorithm

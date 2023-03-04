@@ -1,5 +1,5 @@
 ---
-description: This is Notes for MATH 522, refer to the book: Analysis II by Andreas Seeger
+description: This is Notes for MATH 522
 ---
 
 # 522 Analysis Notes

@@ -10,9 +10,6 @@ description: This is Notes for MATH 522
 
 **Definition (Closed set):** A set $$A \subset X$$ is called closed if its complement $$A^{\complement}=X \backslash A$$ is open. If $$A \subset X$$ is an arbitrary set, then $$\bar{A}$$ denotes the intersection of all closed sets containing $$A$$.
 
-**Definition (Accumulation point):** Let $$A \subset X$$. A point $$x \in X$$ is called an accumulation point of $$A$$ if for every $$r>0$$, there exists $$y \in B\_r(x) \cap A$$ with $$y \neq x$$.
+**Definition (Accumulation point):** Let $$A \subset X$$. A point $$x \in X$$ is called an accumulation point of $$A$$ if for every $$r>0$$, there exists $$y \in B_r(x) \cap A$$ with $$y \neq x$$.
 
 **Lemma :** Let $$X$$ be a metric space and $$A \subset X$$. Then $$\bar{A}$$ is equal to the union of $$A$$ and the set of accumulation points of $$A$$.
-
-
-

@@ -13,6 +13,7 @@
 ## Math
 
 * [Math](math/math.md)
+* [Probability1](math/probability1.md)
 * [Analysis Notes](math/analysis.md)
 * [Abstract Algebra](math/abstract-algebra.md)
 

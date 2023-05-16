@@ -1,6 +1,6 @@
 ---
-description: This is Notes for MATH 522
+description: Probability reference
 ---
 
-# Probability
+# Probability1
 
